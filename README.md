@@ -4,6 +4,11 @@
 <img alt="Coding" width="680" src="https://ima.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"/>
 
 <h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=200&section=header&text=Shafiqul%20Islam%20Khan&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</h1>
+
+
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shafiqul+Islam+Khan+👋;MERN+Stack+Enthusiast;Building+100+Scalable+Solutions;Next.js+•+Redux+•+React;Nice+to+meet+you!&center=true&size=28&color=0e7afe&width=600">
   </a>
