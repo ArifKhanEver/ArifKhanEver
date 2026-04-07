@@ -1,10 +1,7 @@
 # ⚡ Hello World! I'm Shafiqul Islam Khan
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArifKhan27&label=Profile%20Views&color=0e7afe&style=for-the-badge" alt="ArifKhan27" />
-</p>
 
-<img align="right" alt="Coding" width="380" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"/>
+<img alt="Coding" width="380" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
