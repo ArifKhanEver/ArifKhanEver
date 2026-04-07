@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=140&section=header&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=38&animation=fadeIn&fontAlignY=35" />
 </h1>
 
-<a aligh="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shafiqul+Islam+Khan+👋;MERN+Stack+Enthusiast;Building+100+Scalable+Solutions;Next.js+•+Redux+•+React;Nice+to+meet+you!&center=true&size=28&color=0e7afe&width=600">
-</a>
-
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shafiqul+Islam+Khan+👋;MERN+Stack+Enthusiast;Building+100+Scalable+Solutions;Next.js+•+Redux+•+React;Nice+to+meet+you!&center=true&size=28&color=0e7afe&width=600">
+  </a>
+</h2>
 
 <div align="center">
   <strong>MERN Stack Developer 👋 | Architecting 100 Scalable Web Solutions | Translating Complex Logic into Elegant User Experiences | Focused on Clean, Efficient Code & Performance Optimization 🚀</strong>
