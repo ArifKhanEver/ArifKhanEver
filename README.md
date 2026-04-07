@@ -8,7 +8,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,figma,postman,npm&theme=dark" />
+  <a href="https://github.com/ArifKhan27">
+    <img src="https://user-images.githubusercontent.com/50962216/186580971-eb2c1e7d-f495-4424-8b6a-937748805f77.gif" width="300"/>
+  </a>
 </p>
 
 
