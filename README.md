@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FF8383,25:1E3A8A,62:0891B2,100:16A34A&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=50&fontColor=ffffff&fontAlignY=37&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:546B41,25:1E3A8A,62:0891B2,100:16A34A&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=50&fontColor=ffffff&fontAlignY=37&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descAlignY=60&animation=fadeIn" alt="header" />
 
 
 <h2 align="center">
