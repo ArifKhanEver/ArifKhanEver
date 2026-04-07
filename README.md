@@ -7,10 +7,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=200&section=header&text=Shafiqul%20Islam%20Khan&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </h1>
 
-<p align="center">
-  <img src="https://github-mirror.p.rapidapi.com/v1/snake?github_user=ArifKhan27&color_snake=%230e7afe&color_dots=%23bfd6f6%2C%238dbdff%2C%2364a1ff%2C%234b91ff%2C%232172e5" alt="snake" />
-</p>
-
+<h1 align="center">
+  <a href="https://github.com/ArifKhan27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Engineer;Next.js+Expert;100+Apps+Mission&center=true&size=30&color=0e7afe&vCenter=true&width=600&height=50&duration=4000&pause=1000">
+  </a>
+</h1>
 
 
 
