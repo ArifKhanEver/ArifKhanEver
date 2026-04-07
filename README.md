@@ -1,60 +1,63 @@
 # ⚡ Hello World! I'm Shafiqul Islam Khan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ArifKhan27&label=Profile%20Views&color=0e7afe&style=flat" alt="ArifKhan27" />
+  <img src="https://komarev.com/ghpvc/?username=ArifKhan27&label=Profile%20Views&color=0e7afe&style=for-the-badge" alt="ArifKhan27" />
 </p>
 
-### 🚀 Director at Dev Wonder | MERN Stack Engineer | English Literature Graduate
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop"/>
 
-With a unique academic background in **English Literature** and a self-taught passion for **Software Engineering**, I bridge the gap between creative storytelling and logical architecture. Currently, I am on a mission to build **100 innovative and scalable web applications** to empower digital-first teams and businesses.
-
-- 🔭 **Current Focus:** Engineering a high-performance **Dynamic Job Application Tracker** using Vanilla JS & Tailwind.
-- 🏗️ **Strategic Goal:** Leading **Dev Wonder** to deliver premium digital solutions while mastering the MERN stack.
-- ⚡ **The 100-App Mission:** I am building a diverse portfolio of 100 applications to solve real-world problems.
-- 🌱 **Continuous Growth:** Deep-diving into **Next.js** for server-side rendering and performance optimization.
-- 📧 **Get in Touch:** [arifkhanever@email.com](mailto:..........) 
-- 📍 **Based in:** Barishal, Bangladesh
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3 Grid/Flexbox |
-| **Backend** | Node.js, Express.js, MongoDB |
-| **CMS & Tools** | WordPress (Elementor Pro, WooCommerce), Git, GitHub, Postman |
-| **Design** | Figma, UI/UX Principles, Branding & Logo Design |
-
----
-
-### 📈 GitHub Ecosystem
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifKhan27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifKhan27&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifKhan27&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Digital Footprint
-<p align="left">
-  <a href="https://www.linkedin.com/in/ArifKhanEver/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Arif+Khan....;Director+at+Dev+Wonder;Nice+to+meet+you!&center=true&size=30&color=0e7afe">
   </a>
-  <a href="https://www.facebook.com/arifkhanever" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href=".........." target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
-  </a>
-  <a href=".........." target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-</p>
+</h1>
 
----
-*"The intersection of logic and literature is where the best code is written."*
+<div align="center">
+  <strong>MERN Stack Engineer 👋 | Director at Dev Wonder | English Literature Graduate 📚 | Bridging the gap between Creative Literature and Scalable Software Architecture 🌍 | On a mission to build 100 Innovative Web Apps 💡</strong>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ArifKhanEver/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.facebook.com/arifkhanever"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href=".........."><img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=Snapchat&logoColor=black" alt="Snapchat Badge"/></a>
+  <a href=".........."><img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=TikTok&logoColor=white" alt="TikTok Badge"/></a>
+  <a href="mailto:.........."><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+</div>
+
+<hr/>
+
+### 👨‍💻 Talking about Personal Stuff:
+
+- 🔭 I’m currently engineering a **Dynamic Job Application Tracker** using Vanilla JS and Tailwind CSS.
+- 🚀 I’m on a personal mission to build **100 innovative and scalable web applications** to empower digital-first teams.
+- 🌱 I’m currently deep-diving into **Next.js** and **Advanced Backend Scalability**.
+- 🛠️ Expert in **MERN Stack** and **WordPress (WooCommerce & Elementor Pro)** troubleshooting.
+- 📫 Reach me out: **..........** (Email)
+- 📍 Location: **Barishal, Bangladesh**
+
+### 🌟 My Core Values:
+- 💻 I believe clean code is like fine literature—it should be **elegant**, **concise**, and **effective**.
+- 📈 Obsessed with performance optimization and building modern UI/UX aesthetics.
+
+<hr/>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,wp,html,css,git,github,vscode,figma,postman,npm" />
+</div>
+
+<br/>
+
+```javascript
+const arifKhan = {
+  pronouns: "He / Him",
+  education: "B.A. (Honors) in English Literature",
+  role: "Director at Dev Wonder",
+  code: ["JavaScript", "React.js", "Node.js", "Express.js", "Tailwind CSS"],
+  tools: ["MongoDB", "WordPress", "Elementor Pro", "WooCommerce", "GitHub Actions"],
+  currentMission: "Building 100 Scalable Web Apps",
+  philosophy: "The intersection of logic and literature is where the best code is written."
+}
