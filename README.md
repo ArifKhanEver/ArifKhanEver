@@ -4,7 +4,7 @@
 <img alt="Coding" width="680" src="https://ima.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"/>
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=180&section=header&text=Shafiqul%20Islam%20Khan&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=140&section=header&text=Shafiqul%20Islam%20Khan&fontSize=45&animation=fadeIn&fontAlignY=35" />
 </h1>
 
 <p align="center">
