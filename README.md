@@ -3,14 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=140&section=header&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=38&animation=fadeIn&fontAlignY=35" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/ArifKhan27">
-    <img src="https://user-images.githubusercontent.com/50962216/186580971-eb2c1e7d-f495-4424-8b6a-937748805f77.gif" width="300"/>
-  </a>
-</p>
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shafiqul+Islam+Khan+👋;MERN+Stack+Enthusiast;Building+100+Scalable+Solutions;Next.js+•+Redux+•+React;Nice+to+meet+you!&center=true&size=28&color=0e7afe&width=600">
