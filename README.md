@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=ArifKhan27&label=Profile%20Views&color=0e7afe&style=for-the-badge" alt="ArifKhan27" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop"/>
+<img align="right" alt="Coding" width="380" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Arif+Khan....;Director+at+Dev+Wonder;Nice+to+meet+you!&center=true&size=30&color=0e7afe">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Shafiqul+Islam+Khan+👋;MERN+Stack+Enthusiast;Building+100+Scalable+Solutions;Next.js+•+Redux+•+React;Nice+to+meet+you!&center=true&size=28&color=0e7afe&width=600">
   </a>
 </h1>
 
 <div align="center">
-  <strong>MERN Stack Engineer 👋 | Director at Dev Wonder | English Literature Graduate 📚 | Bridging the gap between Creative Literature and Scalable Software Architecture 🌍 | On a mission to build 100 Innovative Web Apps 💡</strong>
+  <strong>MERN Stack Developer 👋 | Architecting 100 Scalable Web Solutions | Translating Complex Logic into Elegant User Experiences | Focused on Clean, Efficient Code & Performance Optimization 🚀</strong>
 </div>
 
 <br/>
@@ -28,36 +28,34 @@
 
 <hr/>
 
-### 👨‍💻 Talking about Personal Stuff:
+### 👋 About Me
 
-- 🔭 I’m currently engineering a **Dynamic Job Application Tracker** using Vanilla JS and Tailwind CSS.
-- 🚀 I’m on a personal mission to build **100 innovative and scalable web applications** to empower digital-first teams.
-- 🌱 I’m currently deep-diving into **Next.js** and **Advanced Backend Scalability**.
-- 🛠️ Expert in **MERN Stack** and **WordPress (WooCommerce & Elementor Pro)** troubleshooting.
-- 📫 Reach me out: **..........** (Email)
-- 📍 Location: **Barishal, Bangladesh**
+I am a dedicated **MERN Stack Developer** passionate about building resilient, high-performance digital solutions. My journey from exploring HTML & CSS to architecting complex web applications has been driven by a relentless curiosity for how things work. 
 
-### 🌟 My Core Values:
-- 💻 I believe clean code is like fine literature—it should be **elegant**, **concise**, and **effective**.
-- 📈 Obsessed with performance optimization and building modern UI/UX aesthetics.
+I specialize in **translating complex business logic** into streamlined, user-centric applications. No fluff—just functional, high-quality code that delivers measurable results.
+
+- 🔭 **Current Mission:** Architecting **100 innovative web apps** to empower teams in a digital-first world.
+- 🚀 **Seeking:** Remote Entry-Level Engineering roles in forward-thinking, beginner-friendly teams.
+- 🛠️ **Expertise:** Deep-diving into **Next.js, Redux, and React** to build high-impact projects.
+- 📫 **Contact:** **..........** (Email)
+- 📍 **Location:** Dhaka, Bangladesh
 
 <hr/>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,wp,html,css,git,github,vscode,figma,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,postman,npm" />
 </div>
 
 <br/>
 
 ```javascript
-const arifKhan = {
+const shafiqulArif = {
   pronouns: "He / Him",
-  education: "B.A. (Honors) in English Literature",
-  role: "Director at Dev Wonder",
-  code: ["JavaScript", "React.js", "Node.js", "Express.js", "Tailwind CSS"],
-  tools: ["MongoDB", "WordPress", "Elementor Pro", "WooCommerce", "GitHub Actions"],
-  currentMission: "Building 100 Scalable Web Apps",
-  philosophy: "The intersection of logic and literature is where the best code is written."
+  background: "English Literature (Bridging Logic & Creativity)",
+  techStack: ["React.js", "Next.js", "Redux", "Node.js", "Express.js"],
+  database: "MongoDB",
+  goal: "Architect 100 Scalable Web Solutions",
+  philosophy: "Clean code is like fine literature—elegant and effective."
 }
