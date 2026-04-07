@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7afe&height=180&section=header&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=45&animation=fadeIn&fontAlignY=35" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:1E3A8A,62:0891B2,100:16A34A&text=SHAFIQUL%20ISLAM%20KHAN&fontSize=50&fontColor=ffffff&fontAlignY=37&desc=Full%20Stack%20Web%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js&descAlignY=60&animation=fadeIn" alt="header" />
+
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
