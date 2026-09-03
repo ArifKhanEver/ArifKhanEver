@@ -13,7 +13,7 @@
 
 <h2 align="center" style="margin-top:-18px">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Dear!;I+am+Shafiqul+Islam+Khan.;Full+Stack+Web+Developer.;Write+Code+That+Speaks!;Love+turning+Ideas+into+Smart+Solution.&center=true&size=28&color=0e7afe&width=600&height=50&duration=2500&pause=1000&type=slide">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=0E7AFE&center=true&vCenter=true&width=600&height=50&lines=Hello+Dear!;I+am+Shafiqul+Islam+Khan.;Full+Stack+Web+Developer.;Write+Code+That+Speaks!;Love+turning+Ideas+into+Smart+Solution.">
   </a>
 </h2>
 
@@ -38,8 +38,9 @@
   <strong>📍 Dhaka, Bangladesh</strong>
 </div>
 </div>
-
 <br/>
+
+
 
 ---
 
@@ -58,7 +59,7 @@ I am a dedicated **Full Stack Developer** with a background in English Literatur
 <tr>
 <td valign="top" width="55%">
 
-```json
+```js
 const shafiqul = {
   role:      "Full Stack Developer",
   location:  "Bangladesh 🇧🇩",
@@ -150,62 +151,40 @@ const shafiqul = {
 
 <h2 align="center">🔗 📊 GitHub Analytics</h2>
 
-<br/>
 
-<!-- Activity Contribution Graph (Alejandro style) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifkhanever&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&title_color=58a6ff" width="95%" alt="Shafiqul Islam Khan's Contribution Graph"/>
+ &nbsp;&nbsp;
+ <img src="https://komarev.com/ghpvc/?username=arifkhanever&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=arifkhanever&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS) -->
 <br/>
 
-<!-- Stats + Top Languages (Sairaj grid layout) -->
+<!-- Stats + Top Languages --> 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifkhanever&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Shafiqul's GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhanever&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages by Repo"/>
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifkhanever&theme=github_dark" alt="Profile Details & Languages"/>
+
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifkhanever&theme=github_dark" alt="Shafiqul's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifkhanever&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
 <br/>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=arifkhanever&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=arifkhanever&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
 
-<!-- Productive Time + Top Languages by Commit -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifkhanever&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages by Commit"/>
+<!-- Repos per Language + Profile Details -->
+<!-- <div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifkhanever&theme=github_dark" alt="Repos per Language"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arifkhanever&theme=github_dark&utcOffset=6" alt="Commits by Time of Day (UTC+6)"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifkhanever&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
-<br/>
+<br/> -->
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🏆 GITHUB TROPHIES                               -->
-<!-- (Sairaj Patil style — trophy showcase)                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🔗 🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifkhanever&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<!-- Profile View Counter + Footer -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=arifkhanever&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=220&section=footer" width="100%" alt="footer wave"/>
