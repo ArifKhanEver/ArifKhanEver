@@ -73,8 +73,7 @@ const shafiqul = {
   learning:  [
     "System Design",
     "Cloud Architecture",
-    "Advanced TypeScript",
-    "DevOps"
+    "Advanced TypeScript"
   ]
 };
 ```
@@ -187,4 +186,4 @@ const shafiqul = {
 
 <br/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=220&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=150&section=footer" width="100%" alt="footer wave"/>
