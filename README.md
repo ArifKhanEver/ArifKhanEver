@@ -73,8 +73,7 @@ const shafiqul = {
   learning:  [
     "System Design",
     "Cloud Architecture",
-    "Advanced TypeScript",
-    "DevOps"
+    "Advanced TypeScript"
   ]
 };
 ```
