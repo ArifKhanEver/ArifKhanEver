@@ -73,7 +73,8 @@ const shafiqul = {
   learning:  [
     "System Design",
     "Cloud Architecture",
-    "Advanced TypeScript"
+    "Advanced TypeScript",
+    "DevOps"
   ]
 };
 ```
@@ -150,7 +151,6 @@ const shafiqul = {
 
 <h2 align="center">🔗 📊 GitHub Analytics</h2>
 
-
 <div align="center">
  &nbsp;&nbsp;
  <img src="https://komarev.com/ghpvc/?username=arifkhanever&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -159,13 +159,32 @@ const shafiqul = {
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=arifkhanever&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS) -->
 <br/>
 
+
+<div align="center" >
+<table cellpadding='0' cellspacing='0' style='width:100% ; max-width:1000px ; text-align:center '  >
+  <tr style="padding:0; margin:0; text-align:center" >
+    <td width="50%" valign="top" style="padding:0; margin:0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://raw.githubusercontent.com/ArifKhanEver/github-stats-transparent/output/generated/languages.svg" width='100%' height='300px'/>
+      </a>
+    </td>
+    <td width="44%" height="100%" valign="top" style="padding:0; margin:0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://raw.githubusercontent.com/ArifKhanEver/github-stats-transparent/output/generated/overview.svg" width='100%' height='300px'/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+
 <!-- Stats + Top Languages --> 
 <div align="center">
 <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifkhanever&theme=github_dark" alt="Profile Details & Languages"/>
 
-  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifkhanever&theme=github_dark" alt="Shafiqul's GitHub Stats"/>
+  <!-- <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifkhanever&theme=github_dark" alt="Shafiqul's GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifkhanever&theme=github_dark" alt="Most Commit Language"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifkhanever&theme=github_dark" alt="Most Commit Language"/> -->
 </div>
 
 <br/>
@@ -187,3 +206,6 @@ const shafiqul = {
 <br/> -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=150&section=footer" width="100%" alt="footer wave"/> -->
+
+
+
